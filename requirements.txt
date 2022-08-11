@@ -21,7 +21,7 @@ imageio==2.19.3
 importlib-metadata==4.11.4
 kiwisolver==1.4.2
 labmaze==1.0.5
-lxml==4.9.0
+lxml==4.9.1
 matplotlib==3.5.2
 mjrl @ git+https://github.com/aravindr93/mjrl@3871d93763d3b49c4741e6daeaebbc605fe140dc
 mujoco==2.2.0
